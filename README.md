@@ -38,4 +38,3 @@ project_folder/
    01_chapter_name.pdf
    02_chapter_name.pdf
    ```
-```
